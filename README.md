@@ -25,3 +25,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Screenshots
+
+![First Image](./images/1.png)
+
+![Second Image](./images/2.png)
+
+![Third Image](./images/3.png)
